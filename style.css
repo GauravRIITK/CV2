@@ -1,0 +1,123 @@
+
+
+
+body{
+    text-align: center;
+    margin: 0;
+    background-color: #F6EABE;
+}
+
+
+.heading{
+    color : #66BFBF; 
+    font-size: 75px;
+    font-family: 'Twinkle Star', cursive;
+}
+
+.intro
+{
+    font-size:40px;
+    font-family: 'Nunito Sans', sans-serif;
+    color :#66BFBF;
+}
+
+.profile{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.skills{
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #FED2AA;
+}
+.skill-row{
+    font-family: 'Nunito Sans', sans-serif;
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.skill-row1{
+    font-family: 'Nunito Sans', sans-serif;
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    margin-top: 200px;
+    padding-bottom: 200px;
+
+}
+.contact-me{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.btn{
+    font-family: monospace;
+}
+.bottom-container{
+    font-family: monospace;
+    font-weight: bold;
+    background-color: #FFBF86;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.top-container{
+
+    
+    width: 100%;
+    background-color: #CEE5D0;
+    display: inline-block;
+    
+    text-align: center;
+    
+}
+img{
+    border-radius: 100%;
+}
+
+.profile-heading{
+    font-size: 35px;
+    color:#66BFBF ;
+}
+.para-profile{
+    width: 20%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.one{
+    border-top: 5px dotted #66BFBF;
+    width : 10%; 
+    border-bottom: 0;
+    border-left: 0;
+    border-bottom: 0;
+}
+
+.finance-one{ 
+    float: left;
+    margin-right: 20px;
+}
+
+.finance-two{ 
+    float: right;
+    margin-right: 20px;
+}
+
+.profile{
+    background-color: #F3F0D7;
+
+}
+.bottom-container{
+    background-color: #FFBF86;
+}
+.contact-me{
+    background-color: #F3F0D7;
+    width : 50%; 
+    margin: auto;
+}
+.parent{
+    background-color: #F3F0D7;
+    margin: 0;
+}
+a{
+    color:#66BFBF ;
+}
+.btn{
+    font-size: 15px;
+}
